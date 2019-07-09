@@ -8,14 +8,22 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "James Lee",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.5.3"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
     "popper.js": "^1.12.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JYL93/conFusion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JYL93/conFusion/issues"
+  },
+  "homepage": "https://github.com/JYL93/conFusion#readme"
 }
